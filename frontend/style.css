@@ -1,0 +1,52 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+html, body{
+	height: 100%;
+}
+
+.header {
+	display: block;
+	height: 33.33%;
+	background-color: yellow;
+	text-align: center;
+}
+
+.body {
+	display: block;
+	height: 33.33%;
+	background-color: red;
+	padding-left: 25%;
+}
+
+.footer {
+	display: block;
+	height: 33.33%;
+	background-color: blue;
+	text-align: center;
+	
+}
+
+input {
+	width: 50%;
+	margin: 10px;  
+}
+
+option {
+	width: 10%;
+  
+}
+
+h1 {
+}
+
+label {
+	display: inline-block;
+	width: 30%;
+}
+select {
+	width: 50%;
+	margin: 10px; 
+}
